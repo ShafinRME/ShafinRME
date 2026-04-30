@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://res.cloudinary.com/dqy2pxsf0/image/upload/v1777526342/logo_big_lyaixs.png"/>
+  <img src="https://res.cloudinary.com/dqy2pxsf0/image/upload/v1777526487/github_readme_gf3hdq.png"/>
 </div>
 
 <!-- Typing animation -->
