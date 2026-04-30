@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Shafin%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20Robotics%20%26%20Mechatronics%20Engineer&descAlignY=55&descSize=16"/>
+  <img src="https://res.cloudinary.com/dqy2pxsf0/image/upload/v1777526342/logo_big_lyaixs.png"/>
 </div>
 
 <!-- Typing animation -->
