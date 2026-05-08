@@ -104,12 +104,19 @@ const shafin = {
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShafinRME&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=ShafinRME&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShafinRME&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=ShafinRME&theme=radical&hide_border=true" height="180"/>
 </div>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShafinRME&theme=radical" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShafinRME&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShafinRME&theme=radical&utcOffset=6" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafinRME&theme=redical&hide_border=true" width="100%"/>
 </div>
 <br/>
 
