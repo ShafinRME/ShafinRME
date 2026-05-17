@@ -156,7 +156,7 @@ const shafin = {
 ## 🤝 Volunteering & Activities
 
 - 🤖 **Academic Team Member** — Bangladesh Robot Olympiad *(BdRO)* — 2 Years
-- 🩸 **Voluntary Blood Donor** — Donated 12 Times
+- 🩸 **Voluntary Blood Donor** — Donated 13 Times
 
 <br/>
 
